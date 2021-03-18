@@ -1,1 +1,1 @@
-# CS421-computer-modeling-and-simulation
+# CS421 Computer Modeling and Simulation
